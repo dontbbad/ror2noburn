@@ -1,0 +1,10 @@
+{
+    "name": "noburn",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/dontbbad/ror2noburn",
+    "description": "Removes the chance for burn DOT when attacked by a Blazing Enemy",
+    "dependencies": [
+    "bbepis-BepInExPack-3.2.0",
+    "tristanmcpherson-R2API-2.4.21"
+  ]
+}
